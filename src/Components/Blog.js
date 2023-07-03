@@ -12,10 +12,11 @@ const Blog = ({ ctx }) => {
   return (
     <div>
       <div className="mx-auto">
-        <div style={{ backgroundColor: '#FE985A' }} className="flex flex-row p-auto dark:bg-primary-dark bg-secondary-light ">
+        {/* <div style={{ backgroundColor: '#FE985A' }} className="flex flex-row p-auto dark:bg-primary-dark bg-secondary-light "> */}
+        <div className="bg-orange-300 dark:text-white min-h-screen pb-10">
           {/* // left */}
           <div className="hidden md:inline fixed w-0 md:w-[23vw] md:pb-5 md:pt-5 ">
-            <SidePanel post={post} />
+      
             <ReadingBar />
           </div>
 
