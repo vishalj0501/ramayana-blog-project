@@ -9,7 +9,7 @@ const Navbar = (props) => {
     
       <div className="dark:bg-primary-dark">
           <div className="flex flex-row justify-between items-center px-3 py-4 mx-5 md:mx-20">
-            <Link to="/blog">
+            <Link to="/">
             {/* <div className="text-lg md:text-2xl"> <span className="md:text-3xl">TALES FROM RAMAYANA</span> */}
              {/* 's Blog */}
             {/* </div> */}
@@ -25,7 +25,7 @@ const Navbar = (props) => {
             
               <ul className="flex flex-row justify-evenly" role="search">
                 <li className="hidden md:px-4 md:inline-block hover:bg-slate-400/30 backdrop-blur py-2 rounded-md hover:cursor-pointer">
-                  <Link className="" aria-current="page" to="/blog">
+                  <Link className="" aria-current="page" to="/">
                     Home
                   </Link>
                 </li>
