@@ -49,7 +49,7 @@ function App() {
             <Navbar isDark={isDark} setIsDark={setIsDark} />
             <Routes>
               <Route exact path="/" element={<Home />} />
-              <Route exact path="/:id" element={<Blog ctx={ctx} />} />
+              <Route exact path="blog/:id" element={<Blog ctx={ctx} />} />
             </Routes>
           </div>
         </BrowserRouter>
