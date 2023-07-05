@@ -9,9 +9,10 @@ When Rama saw Hanuman, he was amused. He knew that Hanuman's actions were motiva
 Rama told Hanuman that he didn't need to cover himself in the sindoor to prolong his life. He said that Hanuman's love for him was already enough to keep him safe and happy.
 
 Hanuman was relieved to hear this. He knew that he would never be able to repay Rama for his love and kindness, but he was determined to serve him with all his heart.
+Hanuman's story teaches us the importance of love and devotion. Hanuman's love for Rama was so great that he was willing to do anything to protect him, even if it meant covering himself in sindoor
 
 ------------------------------------------------------------
 
-"Hanuman's story teaches us the importance of love and devotion. Hanuman's love for Rama was so great that he was willing to do anything to protect him, even if it meant covering himself in sindoor. This story shows us that the greatest gift we can give to those we love is our love and devotion."
+"The greatest gift we can give to those we love is our love and devotion."
 
 ------------------------------------------------------------

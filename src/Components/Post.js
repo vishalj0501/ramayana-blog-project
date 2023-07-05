@@ -47,7 +47,7 @@ const Post = (props) => {
         <div className="dark:bg-secondary-dark my-2 md:my-3 mx-2 p-6 md:py-20 md:pb-28 rounded-xl md:mx-6 md:px-44 shadow-xl min-h-screen">
           <article>
 
-          <Link to="/blog" className='relative top-2 left-4 flex flex-row items-center space-x-2 text-lg hover:underline'>
+          <Link to="/" className='relative top-2 left-4 flex flex-row items-center space-x-2 text-lg hover:underline'>
             <LeftArrow className=""/><span className="">back</span></Link>
 
             <BlogHead post={post} />

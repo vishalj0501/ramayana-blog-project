@@ -1,6 +1,6 @@
 When Rama was exiled from his kingdom, he was forced to leave behind everything he had ever known. He had to give up his home, his family, and his wealth. Even his own horses were taken from him.
 
-<ImageHandler src="rama_gratitude.png" alt="Smash Prop drills" h={} w={} />
+<ImageHandler src="rama_gratitude.png" alt="rama" h={} w={} />
 
 But despite all of this, Rama never forgot his gratitude for the horses that had served him so faithfully. When he met Guha, the king of the Nishadas, Guha offered Rama a royal reception. He brought sumptuous food, comfortable beds, and articles of worship.
 

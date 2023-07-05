@@ -1,6 +1,6 @@
 When Ravana kidnaps Sita, she throws her jewellery on the ground so that Lord Rama would find it. Rama showed the jewellery to Lakshmana, but Lakshmana did not recognize any of it. However, when Rama showed him Sita's anklet, Lakshmana recognized it immediately.
 
-<ImageHandler src="ram_laxman.png" alt="Smash Prop drills" h={} w={} />
+<ImageHandler src="ram_laxman.png" alt="ramlakshman" h={} w={} />
 
 "Why do you recognize this but not the other jewellery?" Rama asked.
 
@@ -11,8 +11,6 @@ Lakshmana's words were a reminder of the deep respect he had for Sita. He had ne
 
 ------------------------------------------------------------
 
-"We should always show respect for others, especially those who are more virtuous than us. We should not be distracted by their beauty or their possessions. We should focus on their inner qualities, such as their purity and devotion.
-
-If we can learn to do this, we will be able to live in peace and harmony with others. We will also be able to achieve our full potential as human beings."
+"Cultivate inner virtues and look beyond external appearances to foster peace, harmony, and personal growth."
 
 ------------------------------------------------------------

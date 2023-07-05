@@ -14,6 +14,6 @@ After the fourteen-year exile, Rama returned to Ayodhya and was impressed by Bha
 
 ---------------------------------------------
 
-"True leadership requires selflessness, humility, and unwavering commitment to the welfare of others. Bharata's character teaches us the importance of putting the needs of others above our own desires and always acting in accordance with righteousness. This story encourages us to serve and lead with integrity, even in challenging circumstances, and to remain steadfast in our devotion to our principles and those we admire."
+"True leadership demands selflessness, humility, and unwavering dedication to others' well-being. Bharata exemplifies prioritizing others' needs above personal desires and consistently upholding righteousness."
 
 ---------------------------------------------

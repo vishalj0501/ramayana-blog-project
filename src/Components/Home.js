@@ -15,6 +15,7 @@ const Home = () => {
                 <img
                   src={require(`../Assets/images/${item.cover}`)}
                   className="w-[400] rounded-xl mx-auto"  
+                  // className="rounded-xl mx-auto max-w-full"
                   alt="Cover"
                 />
                 <div className="card-body  mx-4 ">

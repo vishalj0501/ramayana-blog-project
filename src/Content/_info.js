@@ -30,7 +30,7 @@ const data = [
     description:
       "Lakshmana's profound respect for Sita's purity and devotion, symbolized by recognizing her anklet amidst the jewelry, reminds us to value inner qualities over external appearances.",
     tags: ["Rama", "Lakshman", "Purity"],
-    cover: "ram-lakshman-ss.png",
+    cover: "ram_lakshman.jpeg",
     contentsTitle: [
 
     ],
@@ -63,7 +63,7 @@ const data = [
   
   {
     id: "kaikeyi_blog",
-    title: "Jeolousy Betrayal",
+    title: "Jeolousy's Betrayal",
     description:
       "Kaikeyi's jealousy unleashes a chain of tragic events, emphasizing the destructive power of envy and the need for humility and forgiveness.",
     tags: ["Kaikeyi", "Jealousy", "Envy"],
@@ -129,18 +129,6 @@ const data = [
   },
 
   {
-    id: "vibhishan_blog",
-    title: "Loyalty to the Righteous",
-    description:
-      "Vibhishana, torn between loyalty to his oppressive brother and his commitment to righteousness, chooses the path of virtue, leading to his pivotal role in the defeat of evil.",
-    tags: ["Vibhishan", "Loyal", "Virtue"],
-    cover: "vibhishana.jpeg",
-    contentsTitle: [
-
-    ],
-    path: "vibhishan1",
-  },
-  {
     id: "kumbkarna_blog",
     title: "The Price of Blind Loyalty",
     description:
@@ -151,6 +139,18 @@ const data = [
 
     ],
     path: "kumbkarn",
+  },
+  {
+    id: "vibhishan_blog",
+    title: "Loyalty to the Righteous",
+    description:
+      "Vibhishana, torn between loyalty to his oppressive brother and his commitment to righteousness, chooses the path of virtue, leading to his pivotal role in the defeat of evil.",
+    tags: ["Vibhishan", "Loyal", "Virtue"],
+    cover: "vibhishana.jpeg",
+    contentsTitle: [
+
+    ],
+    path: "vibhishan1",
   },
   
 ];
