@@ -3,7 +3,6 @@ import Post from "./Post";
 import ReadingBar from "./ReadingBar";
 import data from "../Content/_info";
 import { useParams } from "react-router-dom";
-import SidePanel from "./SidePanel";
 
 const Blog = ({ ctx }) => {
   const { id } = useParams();

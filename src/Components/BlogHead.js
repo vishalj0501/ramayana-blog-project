@@ -29,13 +29,6 @@ export default function BlogHead(props) {
           </div>
         </div>
 
-        <div className="flex flex-row my-5 mb-8">
-          <div className="">
-            <CalenderIcon />
-          </div>
-          <div className="ml-4">{post.date}</div>
-        </div>
-
         <img
           src={require(`../Assets/images/${post.cover}`)}
           alt="post-cover"

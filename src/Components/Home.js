@@ -1,15 +1,13 @@
 import React from "react";
 import data from "../Content/_info.js";
 import {useNavigate} from "react-router-dom";
-import Introduction from "./Introduction.js";
+import "./text.css"
 
 const Home = () => {
   const navigate = useNavigate();
   return (
     <div className=" ">
     <div className=" mx-5 md:mx-10">
-      {/* <h2 className="md:text-3xl text-xl mx-10 my-2 lg:my-10 md:px-14">All my blogs</h2> */}
-     <Introduction/>
       <div className="grid lg:grid-cols-3 md:grid-cols-2 lg:mx-12 justify-center">
         {data.map((item) => 
           (

@@ -1,6 +1,4 @@
-import Code from "./blog-component/Code";
 import Note from "./blog-component/Note";
-import Space from "./blog-component/Space";
 import BlogHead from "./BlogHead";
 import {Link} from "react-router-dom";
 import Markdown from "markdown-to-jsx";
@@ -24,7 +22,7 @@ const Post = (props) => {
   };
 
   useEffect(() => {
-    import(`../Content/${post.path}.md`) //src/Content/13-08-22_Try-to-Post.md
+    import(`../Content/${post.path}.md`)
       .then((res) =>
         fetch(res.default)
           .then((response) => response.text())
@@ -57,21 +55,16 @@ const Post = (props) => {
               <Markdown
                 options={{
                   overrides: {
-                    Code: {
-                      component: Code,
-                      props: {
-                        isDark,
-                      },
-                    },
+                
                     ImageHandler: {
                       component: ImageHandler,
                     },
                     Note: {
                       component: Note,
                     },
-                    Space: {
-                      component: Space,
-                    },
+                    // Space: {
+                    //   component: Space,
+                    // },
                   },
                 }}
               >
