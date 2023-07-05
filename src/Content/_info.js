@@ -99,6 +99,19 @@ const data = [
     ],
     path: "laxman_2",
   },
+    
+  {
+    id: "jatayu_blog",
+    title: "Noble Wings of Loyalty",
+    description:
+      "A tale of bravery and selfless sacrifice as Jatayu, a noble bird, confronts the mighty demon king Ravana to save Princess Sita, showcasing the enduring virtues of loyalty and courage.",
+    tags: ["Jatayu", "Noble", "Brave"],
+    cover: "jatayu_cover.jpeg",
+    contentsTitle: [
+
+    ],
+    path: "jatayu",
+  },
   
 
   
@@ -114,6 +127,7 @@ const data = [
     ],
     path: "ravan",
   },
+
   {
     id: "vibhishan_blog",
     title: "Loyalty to the Righteous",
@@ -125,6 +139,18 @@ const data = [
 
     ],
     path: "vibhishan1",
+  },
+  {
+    id: "kumbkarna_blog",
+    title: "The Price of Blind Loyalty",
+    description:
+      "Kumbakarna's tragic tale warns of the dangers of blindly following unjust causes, emphasizing the importance of independent thinking and choosing the path of righteousness.",
+    tags: ["Kumbakarna", "Loyal", "Actions"],
+    cover: "kumbkarn_cover.jpeg",
+    contentsTitle: [
+
+    ],
+    path: "kumbkarn",
   },
   
 ];
