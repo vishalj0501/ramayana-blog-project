@@ -1,4 +1,4 @@
- Ravana, the king of Lanka, was a powerful demon. He had conquered many kingdoms and had amassed a great deal of wealth. But Ravana was also arrogant. He believed that he was invincible and that no one could defeat him.
+Ravana, the king of Lanka, was a powerful demon. He had conquered many kingdoms and had amassed a great deal of wealth. But Ravana was also arrogant. He believed that he was invincible and that no one could defeat him.
 
 One day, Ravana was fighting a battle against Rama, the prince of Ayodhya. Rama was a powerful warrior, and he was slowly but surely defeating Ravana's army. Ravana realized that he was losing the battle, so he decided to seek help from his brother, Bali.
 

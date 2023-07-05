@@ -1,7 +1,7 @@
 const data = [
   {
     id: "rama_blog",
-    title: "Rama's Exile: Gratitude Amidst Hardship.",
+    title: "Gratitude Amidst Hardship",
     description:
       "Rama's unwavering gratitude shines through as he shows appreciation for his faithful horses and the kindness of Guha during his exile.",
     tags: ["Ramayana", "Exile", "Gratitude"],
@@ -44,13 +44,54 @@ const data = [
     title: " Love as the Greatest Gift",
     description:
       "Hanuman's unwavering love and devotion to Lord Rama, depicted through his selfless act of covering himself in sindoor, reminds us that the greatest gift we can offer to those we cherish is our pure and unconditional love.",
-    tags: ["Hanuman", "Sita", "Compassion"],
+    tags: ["Hanuman", "Rama", "Devotion"],
     // date: "16 Nov- 2021", // yyyy-mm-dd
     cover: "hanuman_rama.jpeg",
     contentsTitle: [
 
     ],
     path: "hanuman_rama",
+  },
+  {
+    id: "bharata-1",
+    title: "The Selfless Regent",
+    description:
+      "Bharata's unwavering commitment to Rama's kingdom and his humble leadership as the regent of Ayodhya demonstrate the power of selflessness and devotion in true leadership",
+    tags: ["Bharata", "Selfless", "Leader"],
+    // date: "16 Nov- 2021", // yyyy-mm-dd
+    cover: "bharata_cover.jpeg",
+    contentsTitle: [
+
+    ],
+    path: "bharata",
+  },
+  
+  {
+    id: "kaikeyi_blog",
+    title: "Jeolousy Betrayal",
+    description:
+      "Kaikeyi's jealousy unleashes a chain of tragic events, emphasizing the destructive power of envy and the need for humility and forgiveness.",
+    tags: ["Kaikeyi", "Jealousy", "Envy"],
+    // date: "16 Nov- 2021", // yyyy-mm-dd
+    cover: "kaikeyi_cover.jpeg",
+    contentsTitle: [
+
+    ],
+    path: "kaikeyi",
+  },
+  
+  {
+    id: "hanuman_blog_2",
+    title: "Embracing the Circle of Life",
+    description:
+      "Hanuman's unwavering devotion to Rama leads him to understand the cycle of life and death, teaching us the importance of acceptance and finding purpose in serving others.",
+    tags: ["Hanuman", "Life", "Circle"],
+    // date: "16 Nov- 2021", // yyyy-mm-dd
+    cover: "hanuman_2.jpeg",
+    contentsTitle: [
+
+    ],
+    path: "hanuman_2",
   },
   
   {
@@ -97,20 +138,6 @@ const data = [
   },
   
 
-  {
-    id: "hanuman_blog_2",
-    title: "Embracing the Circle of Life",
-    description:
-      "Hanuman's unwavering devotion to Rama leads him to understand the cycle of life and death, teaching us the importance of acceptance and finding purpose in serving others.",
-    tags: ["Hanuman", "Life", "Circle"],
-    // date: "16 Nov- 2021", // yyyy-mm-dd
-    cover: "hanuman_2.jpeg",
-    contentsTitle: [
-
-    ],
-    path: "hanuman_2",
-  },
-  
   
   // {
   //   id: "data-fetching-in-nextjs",

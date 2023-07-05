@@ -2,7 +2,7 @@ Laxman, the devoted brother of Lord Rama, was put to the ultimate test when he w
 
 Laxman encountered celestial beings, traversed perilous landscapes, and overcame formidable obstacles. But through it all, he kept his focus fixed on his duty. His unshakable faith in Rama gave him the strength to persevere, and he eventually succeeded in retrieving the garland.
 
-<ImageHandler src="sage_laxman_2.png" alt="Smash Prop drills" h={} w={} />
+<ImageHandler src="sage_laxman_2.png" alt="Sage Laxman" h={} w={} />
 
 As Laxman approached the sage Durvasa, he was filled with trepidation. He knew that the sage was known for his unpredictable temperament, and he was not sure how he would react to the news that Laxman had succeeded in his task.
 
