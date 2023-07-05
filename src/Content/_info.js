@@ -33,7 +33,7 @@ const data = [
       "Lakshmana's profound respect for Sita's purity and devotion, symbolized by recognizing her anklet amidst the jewelry, reminds us to value inner qualities over external appearances.",
     tags: ["Rama", "Lakshman", "Purity"],
     // date: "16 Nov 2021", // yyyy-mm-dd
-    cover: "ram-lakshman-ss.avif",
+    cover: "ram-lakshman-ss.png",
     contentsTitle: [
 
     ],
